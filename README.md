@@ -12,7 +12,7 @@ This python scripts uses these libraries:
   
   Install: pip install click
   
-  URL: 
+  URL: [https://palletsprojects.com/p/click/](https://palletsprojects.com/p/click/)
 
 - **bitcoin-utils**
   
@@ -20,7 +20,7 @@ This python scripts uses these libraries:
   
   Install: pip install bitcoin-utils
   
-  URL: 
+  URL: [https://github.com/karask/python-bitcoin-utils](https://github.com/karask/python-bitcoin-utils)
 
 ## Program 1
 
