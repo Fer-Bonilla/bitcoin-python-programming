@@ -51,10 +51,7 @@ This code uses a redem script to claim the funds locked with the program 1
 - If the transaction is valid, send it to the blockchain
 
 
-
-
-
-## Sources and references
+## Programs running
 
 
 
