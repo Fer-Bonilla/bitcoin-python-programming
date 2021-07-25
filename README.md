@@ -53,5 +53,12 @@ This code uses a redem script to claim the funds locked with the program 1
 
 ## Programs running
 
+Both programs can be executed using the comman line
+
+### Using program 1
+
+
+### Using program 2
+
 
 
